@@ -1,0 +1,19 @@
+{
+  "name": "gymify",
+  "version": "1.0.0",
+  "description": "An app that gameifies the gym-going experience",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asilva1604/gymify.git"
+  },
+  "author": "alexandre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asilva1604/gymify/issues"
+  },
+  "homepage": "https://github.com/asilva1604/gymify#readme"
+}
